@@ -1573,7 +1573,7 @@
 
 	<channel-type id="controlSignalCirculatingPump" advanced="true">
 		<item-type>Number:Dimensionless</item-type>
-		<label>Control Signal Circulating Pump</label>
+		<label>Heating Circulating Pump Power</label>
 		<state pattern="%.1f %%" readOnly="true"/>
 	</channel-type>
 
